@@ -1,6 +1,6 @@
 # E-commerce Customer Segmentation using Machine Learning
 
-## Project Goal
+## Project Goal!
 This project aims to segment customers based on their purchasing behavior and spending patterns to help e-commerce businesses design targeted marketing strategies.
 
 ## Problem Statement
